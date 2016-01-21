@@ -1,0 +1,199 @@
+Kaden Matej
+student
+5465
+Calculus
+Physics
+Music
+Combinatorics
+
+Saku Yehudah
+student
+5642
+Music
+Philosophy
+Computer Science
+English
+
+Paris Stigandr
+student
+6512
+French
+Italian
+Classics
+Semiotics
+
+Bevis Nicolas
+teacher
+55000
+Kinesiology
+Nutrition
+N/A
+N/A
+
+Su Hai
+teacher
+65000
+East Asian Studies
+Mandarin
+Political Science
+N/A
+
+Riley Lenox
+student
+5467
+Sociology
+Geography
+Astronomy
+N/A
+
+Truman Lanny
+teacher
+58198
+Film Studies
+English
+Literature
+N/A
+
+Geoffrey Ryder
+student
+2514
+Linguistics
+Marketing
+N/A
+N/A
+
+Pearl Geoff
+student
+5415
+Marketing
+Organizational Behaviour
+Accounting
+Drama
+
+Thomas Collen
+student
+5454
+Chemistry
+Radiology
+Calculus
+N/A
+
+Andrew Martin
+student
+5648
+Geology
+Architecture
+Women's Studies
+N/A
+
+Julia Chow
+student
+2354
+Accounting
+Calculus
+Biology
+N/A
+
+Terry Loi
+student
+8625
+Canadian History
+American History
+Communications
+Food Studies
+
+Nick Sacheverell
+teacher
+70000
+Biology
+Teaching
+Sociology
+Parenting
+
+Hamon Keaton
+student
+5654
+Early Childhood Education
+Mining
+Sewing
+N/A
+
+Tomas Anastasius 
+student
+8644
+Computers and Society
+Information Technology
+Graphic Design
+Game Programming
+
+Ender Shyamal
+student
+5152
+Western Religions
+Biology
+Forensic Science
+French
+
+Tuathal Vida
+teacher
+5546
+Cooking
+Calculus
+Ancient Languages
+Music
+
+Paul Sigibert
+student
+5454
+Graphic Design
+Biology
+Media
+Internet
+
+Anastasia Kyrillos
+student
+5654
+Information Technology
+Philosophy
+Football
+Semiotics
+
+Alberto Devraj
+student
+6543
+Astronomy
+Marketing
+Geography
+Computer Science
+
+Dixon Kendrick
+student
+5155
+Food Sciences
+Game Theory
+Abnormal Psychology
+Visual Arts
+
+Parwiz Albinus
+student
+5465
+Modern Arts
+Philosophy
+Geography
+Earth Sciences
+
+Jep Curt
+teacher
+5878
+Discrete Mathematics
+Calculus
+Applied Mathematics
+Physics
+
+Read Dietmar
+teacher
+87984
+German
+Italian
+French
+Cantonese
